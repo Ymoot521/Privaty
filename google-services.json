@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065944714146",
+    "project_id": "privaty-com",
+    "storage_bucket": "privaty-com.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065944714146:android:d2cf7b728c798919dbc0fb",
+        "android_client_info": {
+          "package_name": "com.privaty.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOirWdLCY0z6gApSFwE5_tzBM3jS2pjkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
